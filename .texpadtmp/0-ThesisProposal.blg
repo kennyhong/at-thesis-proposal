@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.aux
+A level-1 auxiliary file: Cover/ThesisCover.aux
+A level-1 auxiliary file: 1-Introduction.aux
+A level-1 auxiliary file: 2-LiteratureReview.aux
+A level-1 auxiliary file: 3-ProblemStatement.aux
+A level-1 auxiliary file: 4-PotentialSolution.aux
+A level-1 auxiliary file: 5-Evaluation.aux
+A level-1 auxiliary file: 6-Timeline.aux
+A level-1 auxiliary file: 7-Conclusion.aux
+The style file: abbrv.bst
+Database file #1: ../Bibliography/Bibliography.bib
+Warning--empty journal in Azuma1997
+Warning--empty publisher in Chan2017
+Warning--there's a number but no volume in Ens2014
+Warning--there's a number but no volume in Feiner1993
+Warning--empty journal in Zhong2003
+You've used 17 entries,
+            2118 wiz_defined-function locations,
+            626 strings with 7578 characters,
+and the built_in function-call counts, 6263 in all, are:
+= -- 614
+> -- 343
+< -- 2
++ -- 135
+- -- 118
+* -- 501
+:= -- 1063
+add.period$ -- 51
+call.type$ -- 17
+change.case$ -- 109
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 198
+empty$ -- 441
+format.name$ -- 118
+if$ -- 1256
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 17
+newline$ -- 88
+num.names$ -- 34
+pop$ -- 99
+preamble$ -- 1
+purify$ -- 93
+quote$ -- 0
+skip$ -- 132
+stack$ -- 0
+substring$ -- 424
+swap$ -- 29
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 5
+while$ -- 65
+width$ -- 19
+write$ -- 184
+(There were 5 warnings)
