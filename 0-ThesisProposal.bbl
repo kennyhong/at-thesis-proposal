@@ -60,6 +60,26 @@ S.~Feiner, B.~MacIntyre, M.~Haupt, and E.~Solomon.
 \newblock {\em Proceedings of the 6th annual ACM symposium on User interface
   software and technology - UIST '93}, (July):145--155, 1993.
 
+\bibitem{Hanna2018}
+M.~G. Hanna, I.~Ahmed, J.~Nine, S.~Prajapati, and L.~Pantanowitz.
+\newblock {Augmented Reality Technology Using Microsoft HoloLens in Anatomic
+  Pathology}.
+\newblock {\em Archives of Pathology {\&} Laboratory Medicine},
+  142(May):arpa.2017--0189--OA, 2018.
+
+\bibitem{Kress2017}
+B.~C. Kress and W.~J. Cummings.
+\newblock {Towards the ultimate mixed reality experience: Hololens display
+  architecture choices}.
+\newblock {\em Digest of Technical Papers - SID International Symposium},
+  48(1):127--131, 2017.
+
+\bibitem{Krichenbauer2017}
+M.~Krichenbauer, G.~Yamamoto, T.~Taketomi, C.~Sandor, and H.~Kato.
+\newblock {Augmented Reality vs Virtual Reality for 3D Object Manipulation}.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  24(2):1--1, 2017.
+
 \bibitem{Hololens}
 Microsoft.
 \newblock Microsoft hololens.
@@ -70,6 +90,32 @@ T.~Okamoto, S.~Onda, K.~Yanaga, N.~Suzuki, and A.~Hattori.
 \newblock {Clinical application of navigation surgery using augmented reality
   in the abdominal field}.
 \newblock {\em Surgery Today}, 45(4):397--406, 2015.
+
+\bibitem{Pratt2018}
+P.~Pratt, M.~Ives, G.~Lawton, J.~Simmons, N.~Radev, L.~Spyropoulou, and
+  D.~Amiras.
+\newblock {Through the HoloLens™ looking glass: augmented reality for
+  extremity reconstruction surgery using 3D vascular models with perforating
+  vessels}.
+\newblock {\em European Radiology Experimental}, 2(1):2, 2018.
+
+\bibitem{Velamkayala2017}
+E.~R. Velamkayala, M.~V. Zambrano, and H.~Li.
+\newblock {Effects of HoloLens in Collaboration: A Case in Navigation Tasks}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 61(1):2110--2114, 2017.
+
+\bibitem{Wang2018}
+W.~Wang, X.~Wu, G.~Chen, and Z.~Chen.
+\newblock {Holo3DGIS: Leveraging Microsoft HoloLens in 3D Geographic
+  Information}.
+\newblock {\em ISPRS International Journal of Geo-Information}, 7(2):60, 2018.
+
+\bibitem{Zhang2018}
+L.~Zhang, S.~Chen, H.~Dong, and A.~{El Saddik}.
+\newblock {Visualizing Toronto City Data with HoloLens: Using Augmented Reality
+  for a City Model}.
+\newblock {\em IEEE Consumer Electronics Magazine}, 7(3):73--80, 2018.
 
 \bibitem{Zhong2003}
 X.~Zhong, P.~Liu, and N.~D. Georganas.
