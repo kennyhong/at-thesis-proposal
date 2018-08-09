@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+
+\bibitem{Azuma1997}
+R.~Azuma.
+\newblock {A Survey of Augmented Reality}.
+\newblock 4(August):355--385, 1997.
+
+\bibitem{Barsom2016}
+E.~Z. Barsom, M.~Graafland, and M.~P. Schijven.
+\newblock {Systematic review on the effectiveness of augmented reality
+  applications in medical training}.
+\newblock {\em Surgical Endoscopy and Other Interventional Techniques},
+  30(10):4174--4183, 2016.
+
+\bibitem{Bell2001}
+B.~Bell and S.~Feiner{\ldots}.
+\newblock {View management for virtual and augmented reality}.
+\newblock {\em Proceedings of the 14th annual ACM {\ldots}}, 2001:101--110,
+  2001.
+
+\bibitem{Boulanger2004}
+P.~Boulanger.
+\newblock {Application of augmented reality to industrial Tele-training}.
+\newblock {\em Proceedings - 1st Canadian Conference on Computer and Robot
+  Vision}, pages 320--328, 2004.
+
+\bibitem{Bower2014}
+M.~Bower, C.~Howe, N.~McCredie, A.~Robinson, and D.~Grover.
+\newblock {Augmented Reality in education - cases, places and potentials}.
+\newblock {\em Educational Media International}, 51(1):1--15, 2014.
+
+\bibitem{Chan2017}
+E.~Chan, C.~Anslow, T.~Seyed, and F.~Maurer.
+\newblock {\em {Envisioning the emergency operations centre of the future}}.
+\newblock 2017.
+
+\bibitem{Chen2015}
+X.~Chen, L.~Xu, Y.~Wang, H.~Wang, F.~Wang, X.~Zeng, Q.~Wang, and J.~Egger.
+\newblock {Development of a surgical navigation system based on augmented
+  reality using an optical see-through head-mounted display}.
+\newblock {\em Journal of Biomedical Informatics}, 55:124--131, 2015.
+
+\bibitem{Ens2014a}
+B.~Ens, J.~D. Hincapi{\'{e}}-Ramos, and P.~Irani.
+\newblock {Ethereal Planes: A Design Framework for 2D Information Space in 3D
+  Mixed Reality Environments}.
+\newblock {\em Proceedings of the 2Nd ACM Symposium on Spatial User
+  Interaction}, pages 2--12, 2014.
+
+\bibitem{Ens2014}
+B.~M. Ens, R.~Finnegan, and P.~P. Irani.
+\newblock {The personal cockpit: A Spatial Interface for Effective Task
+  Switching on Head-Worn Displays}.
+\newblock {\em Proceedings of the 32nd annual ACM conference on Human factors
+  in computing systems - CHI '14}, (August 2016):3171--3180, 2014.
+
+\bibitem{Feiner1993}
+S.~Feiner, B.~MacIntyre, M.~Haupt, and E.~Solomon.
+\newblock {Windows on the world}.
+\newblock {\em Proceedings of the 6th annual ACM symposium on User interface
+  software and technology - UIST '93}, (July):145--155, 1993.
+
+\bibitem{Krichenbauer2017}
+M.~Krichenbauer, G.~Yamamoto, T.~Taketomi, C.~Sandor, and H.~Kato.
+\newblock {Augmented Reality vs Virtual Reality for 3D Object Manipulation}.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  24(2):1--1, 2017.
+
+\bibitem{Hololens}
+Microsoft.
+\newblock Microsoft hololens.
+\newblock \url{https://www.microsoft.com/en-ca/hololens}, 2018.
+
+\bibitem{Okamoto2015}
+T.~Okamoto, S.~Onda, K.~Yanaga, N.~Suzuki, and A.~Hattori.
+\newblock {Clinical application of navigation surgery using augmented reality
+  in the abdominal field}.
+\newblock {\em Surgery Today}, 45(4):397--406, 2015.
+
+\bibitem{Velamkayala2017}
+E.~R. Velamkayala, M.~V. Zambrano, and H.~Li.
+\newblock {Effects of HoloLens in Collaboration: A Case in Navigation Tasks}.
+\newblock {\em Proceedings of the Human Factors and Ergonomics Society Annual
+  Meeting}, 61(1):2110--2114, 2017.
+
+\bibitem{Wang2018}
+W.~Wang, X.~Wu, G.~Chen, and Z.~Chen.
+\newblock {Holo3DGIS: Leveraging Microsoft HoloLens in 3D Geographic
+  Information}.
+\newblock {\em ISPRS International Journal of Geo-Information}, 7(2):60, 2018.
+
+\bibitem{Zhang2018}
+L.~Zhang, S.~Chen, H.~Dong, and A.~{El Saddik}.
+\newblock {Visualizing Toronto City Data with HoloLens: Using Augmented Reality
+  for a City Model}.
+\newblock {\em IEEE Consumer Electronics Magazine}, 7(3):73--80, 2018.
+
+\bibitem{Zhong2003}
+X.~Zhong, P.~Liu, and N.~D. Georganas.
+\newblock {Designing a Vision-based Collaborative Augmented Reality Application
+  for Industrial Training}.
+\newblock 45:7--19, 2003.
+
+\end{thebibliography}
