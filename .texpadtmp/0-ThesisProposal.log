@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  3 AUG 2018 11:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  23 AUG 2018 09:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -291,36 +291,66 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
-) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.aux (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/Cover/ThesisCover.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/1-Introduction.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/2-LiteratureReview.aux)
-(/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/3-ProblemStatement.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/4-PotentialSolution.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/5-Evaluation.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/6-Timeline.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/7-Conclusion.aux))
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen128
+\captionmargin@=\dimen129
+\captionwidth=\dimen130
+\caption@tempdima=\dimen131
+\caption@indent=\dimen132
+\caption@parindent=\dimen133
+\caption@hangindent=\dimen134
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\par \ifdim \prevdepth >-\p@ \vskip 10\p@ \relax \fi \setbox \@tempboxa \hbox {\vbox to\topskip {}#1: #2\unskip \strut }\ifdim \wd \@tempboxa >\hsize {\ssp #1: #2\unskip \strut \par } \else \hbox to\hsize {\hfil \unhbox \@tempboxa \hfil }\fi .
+\c@ContinuedFloat=\count117
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count118
+\c@subtable=\count119
+) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.aux (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/Cover/ThesisCover.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/1-Introduction.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/2-LiteratureReview.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/3-ProblemStatement.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/4-PotentialSolution.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/5-Evaluation.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/6-CurrentProgress.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/7-ExpectedOutcomes.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/8-Timeline.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/9-Conclusion.aux))
 \openout1 = `0-ThesisProposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
  (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count117
-\scratchdimen=\dimen128
+\scratchcounter=\count120
+\scratchdimen=\dimen135
 \scratchbox=\box30
-\nofMPsegments=\count118
-\nofMParguments=\count119
+\nofMPsegments=\count121
+\nofMParguments=\count122
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count120
-\MPscratchDim=\dimen129
-\MPnumerator=\count121
-\makeMPintoPDFobject=\count122
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen136
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
 \everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -335,21 +365,23 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 43.
+Package hyperref Info: Link coloring OFF on input line 45.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count123
+\c@section@level=\count126
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
  (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.out) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.out)
 \@outlinefile=\write3
 \openout3 = `0-ThesisProposal.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 \openout2 = `Cover/ThesisCover.aux'.
 
  (./Cover/ThesisCover.tex [1
@@ -379,13 +411,28 @@ Package Fancyhdr Warning: \headheight is too small (14.0pt):
 ]
 \openout2 = `2-LiteratureReview.aux'.
 
- (./2-LiteratureReview.tex [4
+ (./2-LiteratureReview.tex
+<./Assets/fig01.png, id=75, 489.32813pt x 329.73187pt>
+File: ./Assets/fig01.png Graphic file (type png)
+<use ./Assets/fig01.png>
+Package pdftex.def Info: ./Assets/fig01.png  used on input line 7.
+(pdftex.def)             Requested size: 260.17464pt x 175.32056pt.
+<./Assets/fig02.jpg, id=78, 3034.33624pt x 2990.17125pt>
+File: ./Assets/fig02.jpg Graphic file (type jpg)
+<use ./Assets/fig02.jpg>
+Package pdftex.def Info: ./Assets/fig02.jpg  used on input line 11.
+(pdftex.def)             Requested size: 260.17464pt x 256.37407pt.
 
 
-] [5]) [6]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4
+
+
+] [5]) [6] [7 <./Assets/fig01.png> <./Assets/fig02.jpg>]
 \openout2 = `3-ProblemStatement.aux'.
 
- (./3-ProblemStatement.tex) [7
+ (./3-ProblemStatement.tex) [8
 
 
 ]
@@ -399,54 +446,81 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 4.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)) [8
+)
+<./Assets/fig04.png, id=153, 1003.75pt x 1003.75pt>
+File: ./Assets/fig04.png Graphic file (type png)
+<use ./Assets/fig04.png>
+Package pdftex.def Info: ./Assets/fig04.png  used on input line 12.
+(pdftex.def)             Requested size: 216.81pt x 216.79758pt.
+<./Assets/fig03.png, id=155, 1003.75pt x 1003.75pt>
+File: ./Assets/fig03.png Graphic file (type png)
+<use ./Assets/fig03.png>
+Package pdftex.def Info: ./Assets/fig03.png  used on input line 16.
+(pdftex.def)             Requested size: 216.81pt x 216.79758pt.
 
 
-]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [9
+
+
+] [10 <./Assets/fig04.png> <./Assets/fig03.png>]
 \openout2 = `5-Evaluation.aux'.
 
- (./5-Evaluation.tex) [9
+ (./5-Evaluation.tex) [11
 
 
 ]
-\openout2 = `6-Timeline.aux'.
+\openout2 = `6-CurrentProgress.aux'.
 
- (./6-Timeline.tex) [10
+ (./6-CurrentProgress.tex) [12
 
 
 ]
-\openout2 = `7-Conclusion.aux'.
+\openout2 = `7-ExpectedOutcomes.aux'.
 
- (./7-Conclusion.tex) [11
-
-
-] (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.bbl [12
+ (./7-ExpectedOutcomes.tex) [13
 
 
-] [13])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
- [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
- (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.aux (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/Cover/ThesisCover.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/1-Introduction.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/2-LiteratureReview.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/3-ProblemStatement.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/4-PotentialSolution.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/5-Evaluation.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/6-Timeline.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/7-Conclusion.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+]
+\openout2 = `8-Timeline.aux'.
+
+ (./8-Timeline.tex) [14
+
+
+]
+\openout2 = `9-Conclusion.aux'.
+
+ (./9-Conclusion.tex) [15
+
+
+] (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.bbl [16
+
+
+] [17])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
+ [18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 77.
+ (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.aux (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/Cover/ThesisCover.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/1-Introduction.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/2-LiteratureReview.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/3-ProblemStatement.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/4-PotentialSolution.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/5-Evaluation.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/6-CurrentProgress.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/7-ExpectedOutcomes.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/8-Timeline.aux) (/Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/9-Conclusion.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 77.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 77.
 Package rerunfilecheck Info: File `0-ThesisProposal.out' has not changed.
 (rerunfilecheck)             Checksum: 2E2FAB519E6A8BCE4DC1E4B2662DD3FF;400.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
  ) 
 Here is how much of TeX's memory you used:
- 7157 strings out of 492649
- 103678 string characters out of 6129622
- 203520 words of memory out of 5000000
- 10837 multiletter control sequences out of 15000+600000
- 13387 words of font info for 49 fonts, out of 8000000 for 9000
+ 8304 strings out of 492649
+ 125020 string characters out of 6129622
+ 229148 words of memory out of 5000000
+ 11939 multiletter control sequences out of 15000+600000
+ 13687 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,11n,45p,1609b,428s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.pdf (15 pages, 92038 bytes).
+ 42i,11n,45p,1609b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on /Users/kennyhong/Desktop/School/at-thesis-proposal/.texpadtmp/0-ThesisProposal.pdf (19 pages, 1775799 bytes).
 PDF statistics:
- 191 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
- 45 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

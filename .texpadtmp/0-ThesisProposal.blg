@@ -7,54 +7,57 @@ A level-1 auxiliary file: 2-LiteratureReview.aux
 A level-1 auxiliary file: 3-ProblemStatement.aux
 A level-1 auxiliary file: 4-PotentialSolution.aux
 A level-1 auxiliary file: 5-Evaluation.aux
-A level-1 auxiliary file: 6-Timeline.aux
-A level-1 auxiliary file: 7-Conclusion.aux
+A level-1 auxiliary file: 6-CurrentProgress.aux
+A level-1 auxiliary file: 7-ExpectedOutcomes.aux
+A level-1 auxiliary file: 8-Timeline.aux
+A level-1 auxiliary file: 9-Conclusion.aux
 The style file: abbrv.bst
 Database file #1: ../Bibliography/Bibliography.bib
 Warning--empty journal in Azuma1997
 Warning--empty publisher in Chan2017
+Warning--there's a number but no volume in Ens2015
 Warning--there's a number but no volume in Ens2014
 Warning--there's a number but no volume in Feiner1993
 Warning--empty journal in Zhong2003
-You've used 17 entries,
+You've used 21 entries,
             2118 wiz_defined-function locations,
-            626 strings with 7578 characters,
-and the built_in function-call counts, 6263 in all, are:
-= -- 614
-> -- 343
+            654 strings with 8663 characters,
+and the built_in function-call counts, 7925 in all, are:
+= -- 776
+> -- 445
 < -- 2
-+ -- 135
-- -- 118
-* -- 501
-:= -- 1063
-add.period$ -- 51
-call.type$ -- 17
-change.case$ -- 109
++ -- 175
+- -- 154
+* -- 651
+:= -- 1345
+add.period$ -- 63
+call.type$ -- 21
+change.case$ -- 139
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 198
-empty$ -- 441
-format.name$ -- 118
-if$ -- 1256
+cite$ -- 27
+duplicate$ -- 242
+empty$ -- 551
+format.name$ -- 154
+if$ -- 1582
 int.to.chr$ -- 0
-int.to.str$ -- 17
-missing$ -- 17
-newline$ -- 88
-num.names$ -- 34
-pop$ -- 99
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 108
+num.names$ -- 42
+pop$ -- 122
 preamble$ -- 1
-purify$ -- 93
+purify$ -- 119
 quote$ -- 0
-skip$ -- 132
+skip$ -- 159
 stack$ -- 0
-substring$ -- 424
-swap$ -- 29
+substring$ -- 550
+swap$ -- 33
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 66
-warning$ -- 5
-while$ -- 65
-width$ -- 19
-write$ -- 184
-(There were 5 warnings)
+type$ -- 82
+warning$ -- 6
+while$ -- 81
+width$ -- 23
+write$ -- 228
+(There were 6 warnings)

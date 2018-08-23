@@ -47,6 +47,13 @@ B.~Ens, J.~D. Hincapi{\'{e}}-Ramos, and P.~Irani.
 \newblock {\em Proceedings of the 2Nd ACM Symposium on Spatial User
   Interaction}, pages 2--12, 2014.
 
+\bibitem{Ens2015}
+B.~Ens, E.~Ofek, N.~Bruce, and P.~Irani.
+\newblock {Spatial Constancy of Surface-Embedded Layouts across Multiple
+  Environments}.
+\newblock {\em Proceedings of the 3rd ACM Symposium on Spatial User Interaction
+  - SUI '15}, (September):65--68, 2015.
+
 \bibitem{Ens2014}
 B.~M. Ens, R.~Finnegan, and P.~P. Irani.
 \newblock {The personal cockpit: A Spatial Interface for Effective Task
@@ -59,6 +66,20 @@ S.~Feiner, B.~MacIntyre, M.~Haupt, and E.~Solomon.
 \newblock {Windows on the world}.
 \newblock {\em Proceedings of the 6th annual ACM symposium on User interface
   software and technology - UIST '93}, (July):145--155, 1993.
+
+\bibitem{Hanna2018}
+M.~G. Hanna, I.~Ahmed, J.~Nine, S.~Prajapati, and L.~Pantanowitz.
+\newblock {Augmented Reality Technology Using Microsoft HoloLens in Anatomic
+  Pathology}.
+\newblock {\em Archives of Pathology {\&} Laboratory Medicine},
+  142(May):arpa.2017--0189--OA, 2018.
+
+\bibitem{Kress2017}
+B.~C. Kress and W.~J. Cummings.
+\newblock {Towards the ultimate mixed reality experience: Hololens display
+  architecture choices}.
+\newblock {\em Digest of Technical Papers - SID International Symposium},
+  48(1):127--131, 2017.
 
 \bibitem{Krichenbauer2017}
 M.~Krichenbauer, G.~Yamamoto, T.~Taketomi, C.~Sandor, and H.~Kato.
@@ -76,6 +97,14 @@ T.~Okamoto, S.~Onda, K.~Yanaga, N.~Suzuki, and A.~Hattori.
 \newblock {Clinical application of navigation surgery using augmented reality
   in the abdominal field}.
 \newblock {\em Surgery Today}, 45(4):397--406, 2015.
+
+\bibitem{Pratt2018}
+P.~Pratt, M.~Ives, G.~Lawton, J.~Simmons, N.~Radev, L.~Spyropoulou, and
+  D.~Amiras.
+\newblock {Through the HoloLens™ looking glass: augmented reality for
+  extremity reconstruction surgery using 3D vascular models with perforating
+  vessels}.
+\newblock {\em European Radiology Experimental}, 2(1):2, 2018.
 
 \bibitem{Velamkayala2017}
 E.~R. Velamkayala, M.~V. Zambrano, and H.~Li.
